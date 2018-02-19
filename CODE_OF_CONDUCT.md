@@ -35,4 +35,4 @@ Ejemplos de abuso, acoso u otro tipo de comportamiento inaceptable puede ser rep
 
 ## Atribución
 
-Este Código de Conducta es una adaptación del Código de Conducta de Bilbostack, que a su vez está basado en en Código de conducta para contribuciones de Folks Who Code.
+Este Código de Conducta es una adaptación del [Código de Conducta de Bilbostack](http://bilbostack.com/codigo-de-conducta/), que a su vez está basado en en [Código de conducta para contribuciones de Folks Who Code](https://github.com/folkswhocode/base/blob/3f8260b9e16c99391180e18014bd873ce59da933/es/CODE_OF_CONDUCT.md).
