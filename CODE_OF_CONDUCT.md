@@ -31,7 +31,7 @@ Este código de conducta aplica tanto al espacio donde se celebra el evento como
 
 ## Aplicación
 
-Ejemplos de abuso, acoso u otro tipo de comportamiento inaceptable puede ser reportado directamente a la organización (wtm@gdgasturias.com). Todas las quejas serán revisadas e investigadas, generando un resultado apropiado a las circunstancias. El equipo que forma parte de la organización está obligado a mantener confidencialidad de la persona que reportó el incidente.
+Ejemplos de abuso, acoso u otro tipo de comportamiento inaceptable puede ser reportado directamente a la organización (info@gdgasturias.com). Todas las quejas serán revisadas e investigadas, generando un resultado apropiado a las circunstancias. El equipo que forma parte de la organización está obligado a mantener confidencialidad de la persona que reportó el incidente.
 
 ## Atribución
 
