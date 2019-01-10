@@ -1,5 +1,9 @@
 # CÓDIGO DE CONDUCTA
 
+Nos hemos pensado mucho si poner solo un RESPETO bien grande en el código de conducta. Al final es lo único que os pedimos com asistentes a los eventos que organizamos y lo que esperamos que nos exijáis a nosotros. Que disfrutemos de un rato hablando de tecnología donde todos y todas estemos a gusto.
+
+Pero por ahora creemos que es necesario tener en cuenta algunas cosas que a veces no tenemos en cuenta o en las que nunca hemos pensado. 
+
 ## Nuestro compromiso
 En el interés de fomentar una conferencia abierta y acogedora, nosotros como organización nos comprometemos a hacer de la participación en nuestro evento una experiencia donde se respete a todos los participantes y libre de acoso para todos ellos, independientemente de la edad, dimensión corporal, discapacidad, etnia, identidad y expresión de género, nivel de experiencia, nacionalidad, apariencia física, raza, religión, identidad u orientación sexual.
 
